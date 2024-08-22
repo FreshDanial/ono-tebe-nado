@@ -166,7 +166,7 @@
 
   /* lots */
   .lots {
-    padding: 179px 50px 50px 50px;
+    padding: 179px 24px 50px 24px;
   }
   
   .lots-heading {
@@ -188,8 +188,10 @@
   }
   
   .lots-card-list-item {
-    flex: 1 1 430px;
-    min-height: 450px;
+    width: 334px;
+    height: 563px;
+    top: 74px;
+    left: 718px;
   }
   
   .lots-look-more-link {
