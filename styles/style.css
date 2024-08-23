@@ -152,7 +152,7 @@
 .cover-description {
   display: flex;
   justify-content: flex-end;
-  align-items: center;    
+  align-items: center;
 }
 
 .cover-description-text {
@@ -305,8 +305,9 @@ text-transform: uppercase;
 .about-text {
 font-weight: 400;
 font-size: 20px;
-line-height: normal;  
+line-height: normal;
 }
+
 .about-text:not(:last-child) {
   margin-bottom: 25px;
 }
