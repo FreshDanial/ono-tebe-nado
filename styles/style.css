@@ -252,7 +252,7 @@
   display: grid;
   grid-template-columns: min-content 1fr;
   column-gap: 28px;
-  padding: 90px 50px 70px 0;
+  padding: 90px 35px 75px 0;
 }
 
 .about-logo {
