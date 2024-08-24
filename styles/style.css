@@ -68,10 +68,18 @@
 /* global*/
 /* header */
 .header {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  font-size: 18px;
+  font-weight: 400;
+  padding: 92px 50px 96px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
   align-items: center;
-  padding: 92px 51px 98px;
+}
+
+.header-menu {
+  flex: 0 0 auto;
+  width: 33.3%;
 }
 
 .header-links-list {
