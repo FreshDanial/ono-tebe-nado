@@ -281,9 +281,10 @@
 }
 
 .about-text {
-  font-weight: 400;
   font-size: 20px;
-  line-height: normal;
+  font-weight: 400;
+  display: flex;
+  flex-direction: column;
 }
 
 .about-text:not(:last-child) {
