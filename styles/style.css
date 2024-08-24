@@ -106,6 +106,7 @@
   padding-left: 60px;
   width: 200px;
   height: 105px;
+  
 }
 
 .header-logo-image {
@@ -252,7 +253,7 @@
   display: grid;
   grid-template-columns: min-content 1fr;
   column-gap: 28px;
-  padding: 130px 50px 90px 0;
+  padding: 100px 50px 90px 0;
 }
 
 .about-logo {
